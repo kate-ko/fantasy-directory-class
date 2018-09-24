@@ -85,11 +85,13 @@ input{
 
 #wizards{
     grid-area: wz;
+    text-align: center;
     background-image: url("https://i.pinimg.com/originals/2d/be/d4/2dbed420e8d6225cf3ca6d8c831b9ad6.jpg");
 }
 
 #bestiary{
     grid-area: b;
+    text-align: center;
     background-color: green;
     background-image: url("https://img00.deviantart.net/f69b/i/2015/231/e/8/magma_beast_by_awesomeplex-d96cl5r.jpg");
 }
